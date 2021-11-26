@@ -7,4 +7,4 @@
  
  Operating System: Win10 / Win11
  
- Unity Engine Editor Version: 2020.3.22f1
+ Unity Engine Editor Version: 2020.3.23f1
